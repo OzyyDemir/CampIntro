@@ -9,7 +9,9 @@ namespace Methods
         public void Add(Product product)
         {
             Console.WriteLine("Added : "+product.ProductName);
-            
+            int a;
+
+
 
 
         }
