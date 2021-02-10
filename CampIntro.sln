@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{814B54AE-A677-41B8-B39A-2A79FDE3E104}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop1", "oop1\Oop1.csproj", "{27F0CDC1-0295-44A9-B8D0-C3E8A74178BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{814B54AE-A677-41B8-B39A-2A79FDE3E104}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{814B54AE-A677-41B8-B39A-2A79FDE3E104}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{814B54AE-A677-41B8-B39A-2A79FDE3E104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F0CDC1-0295-44A9-B8D0-C3E8A74178BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F0CDC1-0295-44A9-B8D0-C3E8A74178BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F0CDC1-0295-44A9-B8D0-C3E8A74178BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F0CDC1-0295-44A9-B8D0-C3E8A74178BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
